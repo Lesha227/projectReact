@@ -1,0 +1,171 @@
+[
+    {
+        "id": 1,
+        "model": "Merkava Mk.3 Raam Segol Pack",
+        "nation": "Israel",
+        "price": 69.99,
+        "image": "https://cdn.mobygames.com/covers/18377789-war-thunder-merkava-mk3-raam-segol-pack-playstation-4-front-cove.png",
+        "description": "Merkava Mk.3 Raam Segol, Premium account for 20 days, 2500 Golden Eagles"
+    },
+    {
+        "id": 2,
+        "model": "Kfir Canard Pack",
+        "nation": "Israel",
+        "price": 69.99,
+        "image": "https://korobok.store/upload/iblock/11e/i8naqbitszn2zovbltuogn8xe12jnhcr.jpg",
+        "description": "Kfir Canard, Premium account for 20 days, 2500 Golden Eagles"
+    },
+    {
+        "id": 3,
+        "model": "Ezer Weizman's Spitfire Pack",
+        "nation": "Israel",
+        "price": 29.99,
+        "image": "https://cdn.dekudeals.com/images/e65ea6db1f822655d1069772c4af07da86133d32/w500.jpg",
+        "description": "Spitfire LF.Mk.IXe, Premium account for 7 days, 1000 Golden Eagles"
+    },
+    {
+        "id": 4,
+        "model": "25000 Golden Eagles",
+        "nation": "",
+        "price": 165,
+        "image": "https://static-store.gaijin.net/img/screenshots/7881C61E-E279-4A4C-9B60-2112C0DABAA6/big/1.jpg",
+        "description": "For 25000  Golden Eagles you can purchase a Premium account for twelve months, allowing you to earn two times more RP as well as more Silver Lions for each battle, or several top rank premium machines."
+    },
+    {
+        "id": 5,
+        "model": "10000 Golden Eagles",
+        "nation": "",
+        "price": 66,
+        "image": "https://static-store.gaijin.net/img/screenshots/99F1A7B2-043D-43EA-B376-05F158E14085/big/1.jpg",
+        "description": "For 10000  Golden Eagles you can purchase a Premium account for six months, allowing you to earn two times more RP as well as more Silver Lions for each battle, or several top rank premium machines."
+    },
+    {
+        "id": 6,
+        "model": "5000 Golden Eagles",
+        "nation": "",
+        "price": 33,
+        "image": "https://static-store.gaijin.net/img/screenshots/ABFFC61D-093A-4298-B22B-358E3C6941E2/big/1.jpg",
+        "description": "For 5000  Golden Eagles you can purchase a Premium account for six months, allowing you to earn two times more RP as well as more Silver Lions for each battle, or several top rank premium machines."
+    },
+    {
+        "id": 7,
+        "model": "Leopard 2A4M CAN Pack",
+        "nation": "Germany",
+        "price": 69.99,
+        "image": "https://igronovinka.ru/image/cache/catalog/ps_product/6673c651e0266-500x500.jpg",
+        "description": "Leopard 2A4M CAN, Premium account for 20 days, 2500 Golden Eagles"
+    },
+
+    {
+        "id": 8,
+        "model": "Tornado IDS WTD 61 Pack",
+        "nation": "Germany",
+        "price": 69.99,
+        "image": "https://store-images.s-microsoft.com/image/apps.54566.14167937128193587.90e9a1a0-f33d-4c68-add4-0a619dc53347.b076f6a8-27a9-4458-a86b-d72dd27f7304?format=jpg&w=720&h=720",
+        "description": "Tornado IDS WTD 61, Premium account for 20 days, 2500 Golden Eagles"
+    },
+    {
+        "id": 9,
+        "model": "King Tiger Pack",
+        "nation": "Germany",
+        "price": 39.99,
+        "image": "https://image.api.playstation.com/vulcan/img/cfn/113078O57ubb_YUk0S1okA0k_dUTSVSu3DtfEpf0pzCaOXKEoAqpr9gx9dvd38ViYk-db29tKTWoC5AUzr1NIteRj6gvHqAP.png",
+        "description": " Tiger II Sla.16, Premium account for 7 days, 1000 Golden Eagles"
+    },
+    {
+        "id": 10,
+        "model": "T-80U-E1 Pack",
+        "nation": "USSR",
+        "price": 69.99,
+        "image": "https://cdn.dekudeals.com/images/ba3a6b606afe27a665324978f5b7702d735ebf4e/w500.jpg",
+        "description": "T-80U-E1, Premium account for 20 days, 2500 Golden Eagles"
+    },
+    {
+        "id": 11,
+        "model": "Su-39 Pack",
+        "nation": "USSR",
+        "price": 69.99,
+        "image": "https://korobok.store/upload/iblock/2af/t09v1cgd9smlg22xqgl9z68csd7x5yln.jpg",
+        "description": "Su-39, Premium account for 20 days, 2500 Golden Eagles"
+    },
+    {
+        "id": 12,
+        "model": "Black Shark Pack",
+        "nation": "USSR",
+        "price": 49.99,
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2519/RL1YmkJwszcaWrtKLbnKbX0Q.png?w=440",
+        "description": "Helicopter Ka-50 ''Black Shark'', Premium account for 15 days, 2000 Golden Eagles"
+    },
+    {
+        "id": 13,
+        "model": "Premium account for 180 days",
+        "nation": "",
+        "price": 39.99,
+        "image": "https://static-store.gaijin.net/img/screenshots/B335ABE1-20D3-44B2-908E-EBAAA9BA8729/big/1.jpg",
+        "description": "Premium account for 180 days"
+    },
+    {
+        "id": 14,
+        "model": "Premium account for 60 days",
+        "nation": "",
+        "price": 19.99,
+        "image": "https://static-store.gaijin.net/img/screenshots/8574A4EF-E2DD-4BA7-BBAC-59E7B6AD4585/big/1.jpg",
+        "description": "Premium account for 60 days"
+    },
+    {
+        "id": 15,
+        "model": "Premium account for 20 days",
+        "nation": "",
+        "price": 7.49,
+        "image": "https://static-store.gaijin.net/img/screenshots/D3917D58-6ABE-4965-A51F-45AAF015CEC0/big/1.jpg",
+        "description": "Premium account for 20 days"
+    },
+    {
+        "id": 16,
+        "model": "M1A1 HC ''Click-Bait'' Pack",
+        "nation": "USA",
+        "price": 69.99,
+        "image": "https://cdn.dekudeals.com/images/b74cd15f26573351514567368ce0023ad278b76c/w500.jpg",
+        "description": "M1A1 HC ''Click-Bait'', Premium account for 20 days, 2500 Golden Eagles"
+    },
+    {
+        "id": 17,
+        "model": "A-10A Thunderbolt (Early) Pack",
+        "nation": "USA",
+        "price": 59.99,
+        "image": "https://korobok.store/upload/iblock/1b7/x8qnqu5wlopllkhmyf04fky8o09g1sdj.jpg",
+        "description": "A-10A Thunderbolt (early), Premium account for 15 days, 2000 Golden Eagles"
+    },
+    {
+        "id": 18,
+        "model": "AH-64A Apache Pack",
+        "nation": "USA",
+        "price": 49.99,
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1616/VTit4rTSoLymtzHgri0zUJz1.png",
+        "description": "AH-64A Apache, Premium account for 15 days, 2000 Golden Eagles"
+    },
+    {
+        "id": 19,
+        "model": "Type 90B ''Fuji'' Pack",
+        "nation": "Japan",
+        "price": 69.99,
+        "image": "https://cdn.dekudeals.com/images/edebcc595a186f59aeff626200f2ceb29757d783/w500.jpg",
+        "description": "Type 90B ''Fuji'', Premium account for 20 days, 2500 Golden Eagles"
+    },
+    {
+        "id": 20,
+        "model": "F-4EJ Phantom II ADTW Pack",
+        "nation": "Japan",
+        "price": 69.99,
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202302/1609/6289730d947bb92a36492cc64832acece141093d5750608a.png?w=440&thumb=false",
+        "description": "F-4EJ Phantom II ADTW, Premium account for 20 days, 2500 Golden Eagles"
+    },
+    {
+        "id": 21,
+        "model": "IJN Yamashiro Pack",
+        "nation": "Japan",
+        "price": 69.99,
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/3015/e0703f38564beffb56b8695ef7313384187449e80f00e945.png",
+        "description": "F-4EJ Phantom II ADTW, Premium account for 30 days, 3000 Golden Eagles"
+    }
+]
