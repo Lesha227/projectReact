@@ -84,19 +84,19 @@ const Home = () => {
           interval={5000}
         >
           <div>
-            <img src="../public/images/carouselPic1.jpeg" alt="Pic 1" />
+            <img src="https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/Aircraft/1920x1080_seek_and_destroy_logo_eng_d31e85bdeb023aaed2a306befa4b3492.jpg" alt="Pic 1" />
           </div>
           <div>
-            <img src="../public/images/carouselPic2.jpeg" alt="Pic 2" />
+            <img src="https://static.warthunder.com/upload/image/0_Wallpaper_Renders/1920x1080_logo_fire_and_ice_finnish_ground_forces_eng_2589dca47849801babaa7291e7c725df.jpg" alt="Pic 2" />
           </div>
           <div>
-            <img src="../public/images/carouselPic3.jpeg" alt="Pic 3" />
+            <img src="https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/1920x1080_air_superiority_logo_0af39eb7a0d03993c71023344a3ed58b.jpg" alt="Pic 3" />
           </div>
           <div>
-            <img src="../public/images/carouselPic4.jpeg" alt="Pic 4" />
+            <img src="https://static.warthunder.com/upload/image/0_Wallpaper_Renders/Other/1920x1080_la_royale_logo_894a1ccecf55d0605567aed1545a6e28.jpg" alt="Pic 4" />
           </div>
           <div>
-            <img src="../public/images/carouselPic5.jpeg" alt="Pic 5" />
+            <img src="https://static.warthunder.com/upload/image/0_Wallpaper_Renders/1920x1080_sky_guardians_ah_6m_logo_eng_a4d2d590a78efabfd7c37161f6fc191c.jpg" alt="Pic 5" />
           </div>
         </Carousel>
       </div>
